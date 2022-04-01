@@ -35,7 +35,7 @@
         "msgs": ["我现在当然是在想打游戏", "我现在当然是在想你啦～"],
         "msgInputSpeed": 80
     },
-    { "msgs": ["什么你才不信？"], "msgInputSpeed": 100 },
+    { "msgs": ["额..."], "msgInputSpeed": 100 },
     { "msgs": ["喔还没收到任何礼物？"], "msgInputSpeed": 140 },
     { "msgs": ["而且人也没到！（逐渐不开心😭）"], "msgInputSpeed": 180 },
     { "msgs": ["别别别，别生气，我可是有所准备的。"], "msgInputSpeed": 80 },

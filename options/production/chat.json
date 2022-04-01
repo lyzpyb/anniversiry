@@ -35,11 +35,10 @@
         "msgs": ["我现在当然是在想打游戏", "我现在当然是在想你啦～"],
         "msgInputSpeed": 80
     },
-    { "msgs": ["什么你不信？"], "msgInputSpeed": 100 },
-    { "msgs": ["是因为你想我更多吗"], "msgInputSpeed": 140 },
-    { "msgs": ["还是说云恋爱半个月太久没见我了"], "msgInputSpeed": 180 },
-    { "msgs": ["还是因为没有礼物不太开心"], "msgInputSpeed": 80 },
-    { "msgs": ["给你一个云kiss"], "msgInputSpeed": 80 },
+    { "msgs": ["额。。"], "msgInputSpeed": 100 },
+    { "msgs": ["又给wyn整无语了"], "msgInputSpeed": 140 },
+    { "msgs": ["希望你看到这里有在无语"], "msgInputSpeed": 180 },
+    { "msgs": ["(づ￣3￣)づ╭❤～"], "msgInputSpeed": 80 },
     {
         "msgs": ["而且还有很多想对你说的话，写成了一封信给你。"],
         "msgInputSpeed": 80
